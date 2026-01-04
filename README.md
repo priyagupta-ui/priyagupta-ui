@@ -1,13 +1,12 @@
-<h1 align="center">
-  Hi 👋, I'm Priya Gupta
-</h1>
+<!-- ===================================================== -->
+<!--                  GITHUB PROFILE README                -->
+<!-- ===================================================== -->
 
-<h3 align="center">
-  A Passionate Frontend Developer from India 🇮🇳
-</h3>
+<h1 align="center">Hi 👋, I'm Priya Gupta</h1>
+<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%7C+Vue+%7C+GSAP;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Vue+%7C+GSAP;UI%2FUX+Enthusiast;Always+Learning+New+Things+🚀" />
 </p>
 
 <p align="center">
@@ -16,53 +15,49 @@
 
 ---
 
-## 🚀 About Me
+## 🙋‍♀️ About Me
 
-- 🌱 Currently learning **Java, DSA, React, Vue & GSAP**
-- 💻 Love building **interactive & responsive UIs**
-- 🎨 Interested in **animations & modern web design**
+- 🌱 Currently learning **Java, Data Structures & Algorithms**
+- ⚛️ Exploring **React, Vue & GSAP animations**
+- 🎨 Interested in **UI/UX and modern web design**
+- 💻 Love building **responsive & interactive websites**
 - 😄 Fun fact: *I think I am funny*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,sass,webpack" />
 </p>
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
 
 ---
 
-## 📌 Projects
-- 🔗 **Project Name** – [Live Demo](project-link)
-- 🔗 **Project Name** – [Live Demo](project-link)
-- 🔗 **Project Name** – [Live Demo](project-link)
+## 🚀 Projects
 
----
+| Project Name | Description | Tech Stack |
+|-------------|------------|------------|
+| 🌐 Portfolio Website | Personal responsive portfolio | HTML, CSS, JavaScript |
+| ⚛️ React App | Interactive frontend application | React, Tailwind |
+| 🎨 Animation UI | UI animations & transitions | GSAP |
 
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/your-instagram-username">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
+➡️ *More projects available in my repositories*
 
 ---
 
@@ -80,11 +75,37 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&row=1"/>
 </p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-**Happy Coding 🚀**
+## 📫 How to Reach Me
+
+- 📧 Email: **priyavarshney582@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username
+- 📸 Instagram: https://instagram.com/your-instagram-username
+- 💻 GitHub: https://github.com/your-github-username
+
+---
+
+## 📌 Learning Goals
+
+- ✅ HTML, CSS, JavaScript
+- ✅ React Basics
+- 🔄 Advanced React & Vue
+- 🔄 GSAP Animations
+- ⏳ Java DSA Mastery
+
+---
+
+## 💡 Quote
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h4 align="center">🚀 Happy Coding!</h4>
